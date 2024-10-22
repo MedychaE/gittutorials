@@ -1,5 +1,5 @@
 
-# Food Recomendation Using Macine Learning
+# Food Recomendation Using Macine Learning and Deep Learning
 
 A brief description of what this project does and who it's for
 
