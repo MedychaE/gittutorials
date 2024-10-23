@@ -1,0 +1,8 @@
+How to create venv:
+1. open vscode with selected folder project
+2. open terminals
+3. write: conda create -p venv python==3.10
+4. write: conda activate venv/
+5. install ipybn jupyter notebook: pip install ipykernel
+
+pip install -r requirements.txt

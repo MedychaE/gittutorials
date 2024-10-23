@@ -1,0 +1,21 @@
+Langkah-Langkah push code ke GitHub:
+1. git status
+2. git add README.md
+3. git status
+4. git commit -m "..say your word.."
+5. git status
+6. git branch
+7. git branch -M main
+8. git branch
+9. git remote add origin https://github.com/MedychaE/gittutorials.git
+10. git status
+11. git remote -v
+12. git push origin main
+
+langkah-langkah update revisi code ke GitHub:
+1. git status
+2. git add .
+3. git status
+4. git commit -m "..say your word.."
+5. git remote -v
+6. git push origin main

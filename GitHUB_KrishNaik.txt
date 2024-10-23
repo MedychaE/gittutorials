@@ -1,0 +1,20 @@
+1. First way
+echo "# gittutorials" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MedychaE/gittutorials.git
+git push -u origin main
+
+2. Second way
+git remote add origin https://github.com/MedychaE/gittutorials.git
+git branch -M main
+git push -u origin main
+
+3. Cancel stage after git add.
+use: git restore --staged "....." or git reset "...."
+
+4. Create a new branch
+git branch ..(name)..
+git checkout ..(name)..
